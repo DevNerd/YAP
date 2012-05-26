@@ -13,8 +13,11 @@ TODO
 ====
 
 > Add SSL
+
 > Add Signing of Files
+
 > Possible looking into headers for sha1 Hashes.
+
 > More cool stuff?!
 
 LICENCE
