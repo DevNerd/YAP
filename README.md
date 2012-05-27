@@ -12,13 +12,17 @@ based on a sha1 file.
 TODO
 ====
 
-> Add SSL
+> Add SSL Checks
 
-> Add Signing of Files
+> Add a basic API For developers to create systems to retrieve hashes!
 
-> Possible looking into headers for sha1 Hashes.
+FUTURE?
+=======
 
-> More cool stuff?!
+in the future we want to be able to change the download location to a secure sandbox, and give the user the option to delete the file if the hashes
+fail.
+
+We want to be able to make sure our end-users are safe and secure!
 
 LICENCE
 =======
